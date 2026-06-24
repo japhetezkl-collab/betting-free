@@ -1,0 +1,53 @@
+[
+  {
+    "teamA": "Real Madrid",
+    "teamB": "Barcelona",
+    "time": "21:00",
+    "totalOdds": "2.50",
+    "company1Name": "SportyBet",
+    "company1Code": "GH3492A",
+    "company2Name": "BetPawa",
+    "company2Code": "5521A",
+    "company3Name": "HelaBet",
+    "company3Code": "HB-992",
+    "inPlayText": "LIVE",
+    "isWon": false,
+    "isVisible": true,
+    "beforeImageUrl": "https://i.postimg.cc/placeholder.jpg",
+    "afterImageUrl": null
+  },
+  {
+    "teamA": "Arsenal",
+    "teamB": "Chelsea",
+    "time": "18:30",
+    "totalOdds": "1.85",
+    "company1Name": "SportyBet",
+    "company1Code": "BC82910",
+    "company2Name": "BetPawa",
+    "company2Code": "NONE",
+    "company3Name": "HelaBet",
+    "company3Code": "",
+    "inPlayText": "LIVE",
+    "isWon": false,
+    "isVisible": true,
+    "beforeImageUrl": "https://i.postimg.cc/placeholder.jpg",
+    "afterImageUrl": null
+  },
+  {
+    "teamA": "Yanga SC",
+    "teamB": "Simba SC",
+    "time": "16:00",
+    "totalOdds": "3.10",
+    "company1Name": "BetPawa",
+    "company1Code": "TZ-SIMBA",
+    "company2Name": "HelaBet",
+    "company2Code": "99212X",
+    "company3Name": "SportyBet",
+    "company3Code": "NONE",
+    "inPlayText": "WON",
+    "isWon": true,
+    "isVisible": true,
+    "beforeImageUrl": "https://i.postimg.cc/placeholder.jpg",
+    "afterImageUrl": "https://i.postimg.cc/won-placeholder.jpg"
+  }
+]
