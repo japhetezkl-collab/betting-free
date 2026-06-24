@@ -19,6 +19,25 @@
     "afterImageUrl": null
 },
 {
+    "teamA": "ote",
+    "teamB": " Hii",
+    "time": "7:00",
+    "totalOdds": "0.50",
+    "company1Name": "SportyBet",
+    "company1Code": "GH3492A",
+    "company3Name": "HelaBet",
+    "company3Code": "HB-992",
+    "company2Name": "BetPawa",
+    "company2Code": "5521A",
+    "company3Name": "HelaBet",
+    "company3Code": "HB-992",
+    "inPlayText": "LIVE",
+    "isWon": false,
+    "isVisible": true,
+    "beforeImageUrl": "https://i.postimg.cc/placeholder.jpg",
+    "afterImageUrl": null
+},
+{
     "teamA": "MadridReal",
     "teamB": "Barce lona",
     "time": "24:0",
