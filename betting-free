@@ -66,5 +66,22 @@
     "isVisible": true,
     "beforeImageUrl": "https://i.postimg.cc/placeholder.jpg",
     "afterImageUrl": "https://i.postimg.cc/won-placeholder.jpg"
+  },
+  {
+    "teamA": "Yanga SC",
+    "teamB": "Simba SC",
+    "time": "16:00",
+    "totalOdds": "3.10",
+    "company1Name": "BetPawa",
+    "company1Code": "TZ-SIMBA",
+    "company2Name": "HelaBet",
+    "company2Code": "99212X",
+    "company3Name": "SportyBet",
+    "company3Code": "NONE",
+    "inPlayText": "WON",
+    "isWon": true,
+    "isVisible": true,
+    "beforeImageUrl": "https://i.postimg.cc/placeholder.jpg",
+    "afterImageUrl": "https://i.postimg.cc/won-placeholder.jpg"
   }
 ]
